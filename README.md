@@ -1,6 +1,24 @@
-## 📂 Project Files
+## # 📗 Excel Insurance Dashboard
 
-- 📗 **Excel Dashboard** – Data cleaning, formulas, pivot tables, and dashboard.
-- 📊 **Power BI Dashboard** – Interactive report with KPIs, slicers, and visuals.
-- 📉 **Tableau Dashboard** – Visual analysis and interactive dashboard.
-- 🗃️ **SQL Analysis** – Queries used to analyze insurance data.
+## 📌 Overview
+This folder contains the Insurance Dashboard created using Microsoft Excel.
+
+## 🛠️ Work Done
+- 🧹 Data cleaning
+- 📊 Pivot tables
+- 📈 Charts and graphs
+- 🎛️ Interactive dashboard
+- 💰 Premium and claim analysis
+
+## 📂 Files
+- Insurance-Excel-Dashboard.xlsx
+- Insurance-Excel-File.zip
+
+## 💡 Key Insights
+- Policy-wise premium analysis
+- Claim amount analysis
+- Customer and category analysis
+- KPI reporting
+
+## 👩‍💻 Author
+**Durga Sonwani**
