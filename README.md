@@ -1,20 +1,6 @@
-insurance-power-bi-excel-tableau-dashboard/
-│
-├── README.md
-├── data/
-│   └── Insurance-Excel-File.zip
-│
-├── excel/
-│   ├── Insurance-Excel-Dashboard.xlsx
-│   └── Excel-Screenshot.png
-│
-├── power-bi/
-│   ├── Insurance-Power-BI-Dashboard.pbix
-│   └── PowerBI-Screenshot.png
-│
-├── tableau/
-│   ├── Insurance-Tableau-Dashboard.twbx
-│   └── Insurance-Tableau-Screenshot.png
-│
-└── sql/
-    └── Insurance-SQL-Query.sql
+## 📂 Project Files
+
+- 📗 **Excel Dashboard** – Data cleaning, formulas, pivot tables, and dashboard.
+- 📊 **Power BI Dashboard** – Interactive report with KPIs, slicers, and visuals.
+- 📉 **Tableau Dashboard** – Visual analysis and interactive dashboard.
+- 🗃️ **SQL Analysis** – Queries used to analyze insurance data.
