@@ -84,6 +84,12 @@ The dashboard includes the following KPIs:
 ### 📉 Tableau Dashboard
 ![Tableau Dashboard](Insurance-Tableau-Screenshot.png)
 
+### 📉 Power BI Dashboard
+![Tableau Dashboard](Insurance-Tableau-Screenshot.png)
+
+### 📉 Excel Dashboard
+![Tableau Dashboard](Insurance-Tableau-Screenshot.png)
+
 ## 💡 Skills Demonstrated
 - 🧹 Data Cleaning
 - 🔎 Data Analysis
